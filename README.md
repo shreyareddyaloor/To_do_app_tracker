@@ -16,6 +16,12 @@ Technologies Used
 - Room Database: A local SQLite database used for data persistence.
 You can find the video for the above mobile application below
 
+Setup Instructions
+
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Run the application on an Android device or emulator.
+
 https://github.com/shreyareddyaloor/To_do_app_tracker/assets/77067274/b6e7ffd4-c278-4e22-9b53-7bde5aebc2f2
 
 Screenshots
